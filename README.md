@@ -64,6 +64,8 @@ Nemesis is an **AI-powered frontend website builder** built with the MERN stack 
 * GitHub
 * VS Code
 
+
+```
 ## 🏗️ How It Works
 
 ```text
@@ -73,7 +75,7 @@ AI Generation API
      ↓
 Structured Website Response
      ↓
-HTML + CSS + JavaScript
+HTML + TailwindCSS + ReactJs
      ↓
 Live Preview + Source Code
 ```
@@ -99,7 +101,7 @@ Nemesis/
 ├── .env
 ├── package.json
 └── README.md
-```
+
 
 ## ⚙️ Getting Started
 
