@@ -1,6 +1,6 @@
 # 🚀 Nemesis – The AI Website Builder
 
-Nemesis is an **AI-powered frontend website builder** built with the MERN stack and Generative AI. It allows users to describe a website using a natural-language prompt and generates the corresponding **HTML, CSS, and JavaScript code**, along with a live preview.
+Nemesis is an **AI-powered frontend website builder** built with the MERN stack and Generative AI. It allows users to describe a website using a natural-language prompt and generates the corresponding **HTML, TailwindCSS, and ReacJs code**, along with a live preview.
 
 ## ✨ Features
 
